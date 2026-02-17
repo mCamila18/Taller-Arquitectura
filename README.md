@@ -21,7 +21,7 @@ La mayoria experimenta este tipo de problema frecuentemente. según la encuesta 
 - Como usuario que busca mejorar sus hábitos, quiero que la app me ayude a programar horarios de sueño y rutinas diarias, para optimizar mi tiempo. (Organización personal y productividad)
 
 ### Criterios de Aceptación (Definition of Done)
-
+**Generales**
 - El sistema debe funcionar en móviles (Responsive).
 - El usuario debe poder activar o desactivar notificaciones desde su perfil.
 - El sistema debe enviar confirmación inmediata (push o correo) cada vez que se realice una acción crítica (reserva, cita, registro de gasto, evento).
@@ -43,7 +43,7 @@ La mayoria experimenta este tipo de problema frecuentemente. según la encuesta 
     - El historial financiero debe poder visualizarse por día, semana y mes.  
 
 ### Requisitos Funcionales (Draft Técnico)
-
+**Generales**
 - RF-01: Módulo de Registro y Login (Autenticación).
 - RF-02: Gestión de Perfil de Usuario. El usuario debe poder editar datos personales y configurar preferencias.
 
