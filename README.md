@@ -1,36 +1,16 @@
- Proyecto: Tu mami
-
-## ¿Qué duele?:
- **[Copia aquí la respuesta más impactante de la Pregunta 2]**
-
-## Frecuencia:
- **[Pon el promedio de la Pregunta 3. Ej: Es un problema recurrente (4/5)]**
+# Identificando Requerimientos Técnicos
 
 
-## La Solución Soñada:
-**[Copia aquí la respuesta de la Pregunta 4]**
+### Enlace a formulario [aqui](https://docs.google.com/forms/d/14mOfWPNB5BxJi-QCDU488GRG4n2E6giOFRfNVIkqlqY/edit#responses)
+
+## ¿Qué duele?
+ En todas las respuestas hay patrones recurrentes asociados a pérdida de tiempo en tareas simples, por ejemplo: 1 hora buscando información en un correo, Filas de todo el día para medicamentos, Procesos largos ára reservar laboratorios/citas, dos semanas esperando un documento, etc. Todos estos problemas tienen que ver con los procesos mal diseñados como: call centers ineficientes, entrega de documentos o medicamentos demorada, documentación mal subida por colaboradores.
+
+## Frecuencia
+La mayoria experimenta este tipo de problema frecuentemente. según la encuesta casi el 70% encuentra este con una frecuencia media-alta. Por otro lado ni un encuestado considera que el problema casi nunca ocurra.Solo una persona experimenta el problema en nivel máximo. Más del 90% lo vive en un rango de frecuencia media o alta (niveles 2, 3, y 4).
 
 
-### Historia de Usuario Principal (User Story)
+## La Solución Soñada
+ Hay varios puntos en común en las respuestas dadas como la automatización de procesos , por ejemplo: Programar citas automáticamente, Registrar gastos, Verificación de dcoumentos, etc. Muchos de ellos quieren notificaciones, Avisos, Recordatorios y alertas. También quieren una estructura clara y visualización organizada.
 
 
-La fórmula es: Como [ROL], quiero [ACCIÓN], para [BENEFICIO].
-Ejemplo: 
-
-- "Como estudiante ocupado, quiero recibir una notificación push cuando un libro de la biblioteca esté disponible, para no tener que ir físicamente a revisar."
-
-### Criterios de Aceptación (Definition of Done)
-Son las condiciones SI O SI para que el usuario acepte el software.
-
-- El sistema debe funcionar en móviles (Responsive).
-
-- El tiempo de carga debe ser menor a 2 segundos.
-
-- El usuario debe recibir confirmación por correo electrónico.
-
-### Requisitos Funcionales (Draft Técnico)
-Son las funciones que el sistema debe programar.
-
-- RF-01: Módulo de Registro y Login (Autenticación).
-- RF-02: Conexión con Base de Datos para guardar [Lo que sea que guarden].
- RF-03: [Alguna función específica, ej: Generación de PDF, Escaneo de QR, etc.]
