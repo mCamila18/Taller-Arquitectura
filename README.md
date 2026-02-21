@@ -14,7 +14,7 @@ La mayoria experimenta este tipo de problema frecuentemente. Según la encuesta 
 
 ![Figura 1.](img/Captura%20de%20pantalla%202026-02-20%20220245.jpg)
 
-![Figura 1.](img/img/3.jpg)
+![Figura 1.](img/3.jpg)
 
 
 
