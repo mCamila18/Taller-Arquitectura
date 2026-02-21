@@ -5,13 +5,23 @@
 
 ## ¿Qué duele?
  En todas las respuestas hay patrones recurrentes asociados a pérdida de tiempo en tareas simples, por ejemplo: 1 hora buscando información en un correo, Filas de todo el día para medicamentos, Procesos largos ára reservar laboratorios/citas, dos semanas esperando un documento, etc. Todos estos problemas tienen que ver con los procesos mal diseñados como: call centers ineficientes, entrega de documentos o medicamentos demorada, documentación mal subida por colaboradores.
+ ![Figura 1.](img/3.jpg)
 
+ ![Figura 1.](img/2.jpg)
 ## Frecuencia
-La mayoria experimenta este tipo de problema frecuentemente. según la encuesta casi el 70% encuentra este con una frecuencia media-alta. Por otro lado ni un encuestado considera que el problema casi nunca ocurra.Solo una persona experimenta el problema en nivel máximo. Más del 90% lo vive en un rango de frecuencia media o alta (niveles 2, 3, y 4).
+La mayoria experimenta este tipo de problema frecuentemente. Según la encuesta casi el 70% encuentra este con una frecuencia media-alta(3,4). Por otro lado ni un encuestado considera que el problema casi nunca ocurra. Solo una persona experimenta el problema en nivel máximo. Más del 90% lo vive en un rango de frecuencia media o alta (niveles 2, 3, y 4).
+
+
+![Figura 1.](img/Captura%20de%20pantalla%202026-02-20%20220245.jpg)
+
+
+
 
 
 ## La Solución Soñada
  Hay varios puntos en común en las respuestas dadas como la automatización de procesos , por ejemplo: Programar citas automáticamente, Registrar gastos, Verificación de dcoumentos, etc. Muchos de ellos quieren notificaciones, Avisos, Recordatorios y alertas. También quieren una estructura clara y visualización organizada.
+
+ ![Figura 2.](img/4..jpg)
 
 ## Historia de Usuario Principal (User Story)
  
@@ -60,3 +70,79 @@ La mayoria experimenta este tipo de problema frecuentemente. según la encuesta 
     - RF-04: Registro de Ingresos y Gastos. El usuario debe poder registrar ingresos y gastos manualmente.
     - RF-05: Configuración de Límites de Gasto. El usuario debe poder establecer límites semanales y mensuales.
     - RF-06: Alertas de Exceso de Presupuesto. El sistema debe generar alertas automáticas cuando se alcance un porcentaje crítico del límite.
+
+
+## Evidencias
+## Entrevistas Transcripciones:
+### Myriam Orozco
+    
+    
+    - Entrevistador: "¿En qué área sientes que pierdes más tiempo o control actualmente?"
+
+    - Mama : "En la salud"
+
+    - Entrevistador: "Describe brevemente la última vez que tuviste un problema con el área que marcaste arriba."
+
+    - "me demoro más de una hora en el telefono, para sacar una cita para mi mamá."
+
+    - ¿Qué tan seguido te ocurre este problema? 1 = Casi nunca (Una vez al año) 5 = Todo el tiempo (Diario o Semanal).
+
+    -" 4 , me pasa muy seguido puesto que mi mamá es un adulto mayor y necesita del servicio de salud muy seguido."
+
+    - Si existiera una solución mágica (App o Web) para esto, ¿Qué es lo PRIMERO que debería hacer por ti? Ejemplo: "Que me envíe una alerta al celular antes de que se venza el plazo".
+
+    - "que si el medico ordena un examen, el sistema busque una cita y no se uno el que pida la cita"
+
+### Pablo Guaqueta
+
+    - Entrevistador: "¿En qué área sientes que pierdes más tiempo o control actualmente?"
+
+    - "haciendo filas para bancos."
+
+     - Entrevistador: "Describe brevemente la última vez que tuviste un problema con el área que marcaste arriba."
+
+    
+    - "Cuando voy a los bancos a consignar plata se demoran mucho en atender a la gente."
+
+    - ¿Qué tan seguido te ocurre este problema? 1 = Casi nunca (Una vez al año) 5 = Todo el tiempo (Diario o Semanal).
+
+    - "4"
+
+    - Si existiera una solución mágica (App o Web) para esto, ¿Qué es lo PRIMERO que debería hacer por ti? Ejemplo: "Que me envíe una alerta al celular antes de que se venza el plazo".
+
+    - "Una aplicación que este dipsonivle 24 horas al día sin fallas ,por ejemplo nequi que se cae todo el tiempo ."
+
+### Juan Pablo Guaqueta
+    - Entrevistador: "¿En qué área sientes que pierdes más tiempo o control actualmente?"
+    
+    - Entrevistador: "Describe brevemente la última vez que tuviste un problema con el área que marcaste arriba."
+    
+    - "Gestión de dinero"
+
+    - "La Gente a quienes le vendo productos, no me pagan en el momento y pierdo tiempo recordandoles pagarme."
+
+    - ¿Qué tan seguido te ocurre este problema? 1 = Casi nunca (Una vez al año) 5 = Todo el tiempo (Diario o Semanal).
+
+    - "3"
+
+    - Si existiera una solución mágica (App o Web) para esto, ¿Qué es lo PRIMERO que debería hacer por ti? Ejemplo: "Que me envíe una alerta al celular antes de que se venza el plazo".
+
+    -"Que me envie una notificación de quiénes no me han pagado con un conteo de cuanto se demoran en pagarme."
+
+### Julian Grisales
+
+    - Entrevistador: "¿En qué área sientes que pierdes más tiempo o control actualmente"
+
+    - "Me demoro mucho haciendo filas para sacar documentos"
+
+    - Entrevistador: "Describe brevemente la última vez que tuviste un problema con el área que marcaste arriba."
+
+    - "La última vez que ocurrio fue cuando estaba sacando la licencia de conducción."
+
+    - ¿Qué tan seguido te ocurre este problema? 1 = Casi nunca (Una vez al año) 5 = Todo el tiempo (Diario o Semanal).
+
+    - " 3"
+
+    - Si existiera una solución mágica (App o Web) para esto, ¿Qué es lo PRIMERO que debería hacer por ti? Ejemplo: "Que me envíe una alerta al celular antes de que se venza el plazo".
+
+    - "Que diga que llena este una sede de la ventanilla unica de servicios y en base en eso escogerr la sede."
